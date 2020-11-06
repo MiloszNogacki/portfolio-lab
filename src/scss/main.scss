@@ -1,0 +1,11 @@
+@import "reset";
+@import "settings/fonts";
+@import "src/assets";
+body{
+  font-family: $font-base;
+}
+
+.home {
+  width: 1800px;
+  height: 950px;
+}
